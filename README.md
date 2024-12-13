@@ -13,6 +13,7 @@ Steps
 Clone the Repository:
 
 git clone <repository-url>
+
 cd <repository-folder>
 
 Install Dependencies:
