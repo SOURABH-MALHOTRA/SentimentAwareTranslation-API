@@ -12,9 +12,7 @@ Steps:-
 
 Clone the Repository:
 
-git clone  <repository-url>
-
-cd  <repository-folder>
+git clone https://github.com/SOURABH-MALHOTRA/SentimentAwareTranslation-API.git
 
 Install Dependencies:
 
