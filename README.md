@@ -19,9 +19,9 @@ Install Dependencies:
 
 npm install
 
-Set Up PORT:
-PORT=2000
-MONGOD.B_URL=your_mongodb_connection_string
+Set Up PORT and MongoDB Connection:
+PORT= 2000
+MongoDB URL= "mongodb://127.0.0.1:27017/Translation"
 
 Start the Server:
 
