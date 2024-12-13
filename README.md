@@ -8,13 +8,13 @@ Install Node.js.
 
 Install MongoDB and ensure it is running locally or use a cloud database.
 
-Steps
+Steps:-
 
 Clone the Repository:
 
-git clone <repository-url>
+git clone  <repository-url>
 
-cd <repository-folder>
+cd  <repository-folder>
 
 Install Dependencies:
 
